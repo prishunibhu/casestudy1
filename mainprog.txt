@@ -1,6 +1,10 @@
 main
+<<<<<<< HEAD
 
 dev1
 
 f2
+
+
+f1
 
